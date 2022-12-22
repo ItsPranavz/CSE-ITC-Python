@@ -1,3 +1,4 @@
+# Program to do string operations
 # Defining String Input
 string = "Python is a case sensitive language"
 # Finding length of input string
