@@ -1,4 +1,4 @@
-# Program to write number of seconds and minutes
+# Program to write the number of seconds and minutes
 # Taking user input for number of seconds
 total_seconds = int(input("Please enter number of seconds : "))
 # Converting seconds to minutes and seconds
