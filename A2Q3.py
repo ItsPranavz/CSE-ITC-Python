@@ -1,3 +1,4 @@
+# Program to perform all binary operations
 # Defining all required variables
 a = 56
 b = 10
