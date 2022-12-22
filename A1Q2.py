@@ -1,4 +1,4 @@
-# Program to compute income tax
+# Program to compute the income tax
 # Taking user input for parameters
 gross_income = int(input("Please enter gross income : "))
 dependents = int(input("Please enter number of dependents : "))
