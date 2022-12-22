@@ -1,4 +1,4 @@
-# Program to add three numbers and convert to string
+# Program to add three numbers and convert to a string
 # Defining variables according to question
 a = 25
 b = "25"
