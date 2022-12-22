@@ -1,3 +1,4 @@
+# Program to determine existence of triangle with sides given
 # Taking user input for sides of triangle
 side_1 = int(input("Please enter length of first side : "))
 side_2 = int(input("Please enter length of second side : "))
