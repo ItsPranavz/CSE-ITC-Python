@@ -1,4 +1,4 @@
-# Program to determine sine and cosine in increments
+# Program to determine the sine and cosine in increments
 # Importing math modules for trignometric functions
 import math
 # Defining loop for 15 deg increments
