@@ -1,3 +1,4 @@
+# Program to find greatest number out of three
 # Getting input from the user
 num_1 = int(input("Please enter first number : "))
 num_2 = int(input("Please enter second number : "))
