@@ -1,3 +1,4 @@
+# Program to check substring "name"
 # Taking inpur from the user
 string = input("Please enter a sentence : ")
 # Printing the label for the process
