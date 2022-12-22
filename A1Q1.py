@@ -1,4 +1,4 @@
-# Program to find average of 3 numbers
+# Program to find the average of 3 numbers
 # Taking user input for numbers
 num_1 = int(input("Please enter first number : "))
 num_2 = int(input("Please enter second number : "))
