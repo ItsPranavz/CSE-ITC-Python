@@ -1,5 +1,5 @@
 # Program to determine the sine and cosine in increments
-# Importing math modules for trignometric functions
+# Importing math modules for trigonometric functions
 import math
 # Defining loop for 15 deg increments
 for i in range(0, 346, 15):
