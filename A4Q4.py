@@ -1,3 +1,4 @@
+# Program to determine pieces in the bowl
 # start with the lowest possible number of pieces
 pieces = 1
 
