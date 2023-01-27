@@ -1,3 +1,4 @@
+# Program for a multiplication game
 import random
 
 # generate ten random multiplication questions
