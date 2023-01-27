@@ -1,3 +1,4 @@
+# Program to output a grade
 # Prompt the user to enter their marks
 marks = int(input("Enter your marks: "))
 
