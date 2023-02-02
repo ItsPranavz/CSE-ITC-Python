@@ -10,6 +10,6 @@ def student_data(student_id,**kwargs):
         print("Student class is ",kwargs['student_class'])
     print()
 
-student_data(student_id="22106001")
-student_data(student_id="22106001", student_name="Sambhav Jain")
-student_data(student_id="22106001", student_name="Sambhav Jain", student_class="1st Year")
+student_data(student_id="22103018")
+student_data(student_id="22103018", student_name="Pranav Sharma")
+student_data(student_id="22103018", student_name="Pranav Sharma", student_class="1st Year")
